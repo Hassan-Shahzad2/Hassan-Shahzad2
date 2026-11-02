@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muhammad+Hassan+Shahzad+%F0%9F%91%8B;AI+%26+Automation+Engineer;I+build+AI+agents%2C+RAG+pipelines+%26+workflows" alt="Typing SVG" />
+<img src="assets/banner.svg" alt="Muhammad Hassan Shahzad - AI & Automation Engineer" width="100%" />
 
 **Building end-to-end AI products with LLMs, RAG and automation**
 
@@ -80,5 +80,7 @@ I design and ship AI-powered applications from idea to deployment: LLM workflows
 <div align="center">
 
 *Let's build something intelligent.* 🚀
+
+<img src="assets/footer.svg" alt="" width="100%" height="90" />
 
 </div>
