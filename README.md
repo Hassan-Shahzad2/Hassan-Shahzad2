@@ -68,17 +68,6 @@ I design and ship AI-powered applications from idea to deployment: LLM workflows
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hassan-Shahzad2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Shahzad2&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
 ## 🏅 Certifications
 
 - Generative AI Certification, Higher Education Commission (HEC), Pakistan
