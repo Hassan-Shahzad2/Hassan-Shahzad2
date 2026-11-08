@@ -79,7 +79,7 @@ I design and ship AI-powered applications from idea to deployment: LLM workflows
 
 <div align="center">
 
-*Let's build something intelligent.* 🚀
+*Let's build something intelligent.* 
 
 <img src="assets/footer.svg" alt="" width="100%" height="90" />
 
