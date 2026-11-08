@@ -21,12 +21,12 @@
 <img src="assets/h-about.svg" alt="whoami" width="100%" />
 
 <div align="center">
-<img src="assets/terminal.svg" alt="Terminal profile of Hassan" width="85%" />
+<img src="assets/terminal.svg" alt="Code editor with a short RAG query function" width="85%" />
 </div>
 
 <br/>
 
-I design and ship AI-powered applications from idea to deployment: LLM workflows, retrieval-augmented generation (RAG), AI agents and the backend that holds them together. CS undergrad at **Iqra University** (CGPA 3.75), based in Karachi, Pakistan 🇵🇰.
+I design and ship AI-powered applications from idea to deployment: LLM workflows, retrieval-augmented generation (RAG), AI agents and the backend that holds them together. CS undergrad at **Iqra University** (CGPA 3.75), based in Karachi, Pakistan.
 
 - 🤖 Building with **AI agents, RAG and LLMs**
 - ⚙️ Automating real workflows with **n8n, Flask and REST APIs**

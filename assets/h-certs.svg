@@ -7,7 +7,7 @@
   <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#E3B341"/><stop offset="1" stop-color="#E3B341" stop-opacity="0"/></linearGradient>
 </defs>
 <text x="8" y="50" font-family="'SFMono-Regular',Consolas,'Liberation Mono','Courier New',monospace" font-size="30" font-weight="700" fill="#E3B341" opacity=".55">//</text>
-<text x="52" y="50" font-family="'Segoe UI','Helvetica Neue',Ubuntu,Arial,sans-serif" font-size="32" font-weight="800" fill="url(#g)">certifications</text>
+<text x="52" y="50" font-family="'Segoe UI','Helvetica Neue',Ubuntu,Arial,sans-serif" font-size="32" font-weight="800" fill="#E3B341">certifications</text>
 <rect x="8" y="64" width="1184" height="2" rx="1" fill="url(#l)" opacity=".5"/>
 <rect x="8" y="63" width="90" height="4" rx="2" fill="#F778BA">
   <animate attributeName="x" values="8;1100;8" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".6 0 .4 1;.6 0 .4 1"/>
