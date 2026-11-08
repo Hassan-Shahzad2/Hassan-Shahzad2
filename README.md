@@ -1,86 +1,106 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Muhammad Hassan Shahzad - AI & Automation Engineer" width="100%" />
+<img src="assets/banner.svg" alt="Muhammad Hassan Shahzad, AI & Automation Engineer" width="100%" />
 
-**Building end-to-end AI products with LLMs, RAG and automation**
+<img src="assets/typing.svg" alt="I build end-to-end AI products with LLMs, RAG and automation" width="80%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hassan--portfolio--latest.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://hassan-portfolio-latest.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hassan-shahzad-182439388)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhassanshahzad22@gmail.com)
+<br/>
+
+<a href="https://hassan-portfolio-latest.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="52" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-hassan-shahzad-182439388"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="52" /></a>&nbsp;
+<a href="mailto:muhammadhassanshahzad22@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="52" /></a>
+
+<br/><br/>
+
+<img src="assets/stats.svg" alt="CGPA 3.75, 8 projects, 5 certificates, graduating 2027" width="100%" />
 
 </div>
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
-## 👨‍💻 About
+<img src="assets/h-about.svg" alt="whoami" width="100%" />
 
-I design and ship AI-powered applications from idea to deployment: LLM workflows, retrieval-augmented generation (RAG), AI agents and the backend that holds them together. Based in Karachi, Pakistan 🇵🇰.
+<div align="center">
+<img src="assets/terminal.svg" alt="Terminal profile of Hassan" width="85%" />
+</div>
+
+<br/>
+
+I design and ship AI-powered applications from idea to deployment: LLM workflows, retrieval-augmented generation (RAG), AI agents and the backend that holds them together. CS undergrad at **Iqra University** (CGPA 3.75), based in Karachi, Pakistan 🇵🇰.
 
 - 🤖 Building with **AI agents, RAG and LLMs**
 - ⚙️ Automating real workflows with **n8n, Flask and REST APIs**
 - 🗄️ Working with **vector databases and semantic search**
-- 📫 Open to software engineering, AI and backend roles
+- 🎓 Finished the **AI Engineering & Automation internship at The Techzeen**, where I built Probe
+- 📫 Open to software engineering, AI and backend roles, internships and entry-level
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
-## 🚀 Featured Projects
+<img src="assets/h-projects.svg" alt="featured projects" width="100%" />
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🛡️ **AI SOC Memory System** | Stores and retrieves past security investigations with RAG, so analysts stop repeating the same incident analysis. | n8n · OpenAI · Pinecone · Flask · Supabase |
-| 📄 **AI HR Resume Screening** | End-to-end recruiting platform: extracts skills from PDF resumes, scores candidates ATS-style, and sends automated decisions. | Groq LLM · Supabase · Gmail API · Render |
-| 🎯 **CareerPulse AI** | Career copilot that tailors a CV to a job description and generates interview questions with model answers. | Next.js · n8n · OpenAI · Supabase |
-| 🎙️ **Probe** | AI voice interviewer that screens candidates and returns a ranked shortlist. | n8n · AI voice · automation |
-| 🎮 **Tic-Tac-Toe AI** | Game with Easy, Medium and Hard levels powered by Minimax with Alpha-Beta pruning. | React · TypeScript · Tailwind · Framer Motion |
-
-> 👉 See all of them in my [repositories](https://github.com/Hassan-Shahzad2?tab=repositories).
-
----
-
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Hassan-Shahzad2?tab=repositories"><img src="assets/card-soc.svg" alt="AI SOC Memory System" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/Hassan-Shahzad2?tab=repositories"><img src="assets/card-hr.svg" alt="AI HR Resume Screening" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Hassan-Shahzad2?tab=repositories"><img src="assets/card-career.svg" alt="CareerPulse AI" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/Hassan-Shahzad2?tab=repositories"><img src="assets/card-probe.svg" alt="Probe" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Hassan-Shahzad2?tab=repositories"><img src="assets/card-tictactoe.svg" alt="Tic-Tac-Toe AI" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/Hassan-Shahzad2?tab=repositories"><img src="assets/card-more.svg" alt="More builds" width="100%" /></a></td>
+</tr>
+</table>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+👉 Everything lives in my [repositories](https://github.com/Hassan-Shahzad2?tab=repositories)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</div>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+<img src="assets/divider.svg" alt="" width="100%" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<img src="assets/h-rag.svg" alt="how i build" width="100%" />
 
+<div align="center">
+<img src="assets/rag-flow.svg" alt="RAG pipeline: source docs, embeddings, vector database, LLM, grounded answer" width="100%" />
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<img src="assets/h-stack.svg" alt="tech stack" width="100%" />
+
+<div align="center">
+<img src="assets/skills.svg" alt="Python, Java, JavaScript, TypeScript, C, Flask, Next.js, React, Tailwind, OpenAI, Groq, n8n, Pinecone, Supabase, PostgreSQL, Git, Postman, Render" width="100%" />
 </div>
 
 **Focus areas:** LLMs · RAG · AI Agents · Prompt Engineering · Embeddings · Semantic Search · Workflow Automation · Blockchain fundamentals
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
-## 🏅 Certifications
+<img src="assets/h-certs.svg" alt="certifications" width="100%" />
 
-- Generative AI Certification, Higher Education Commission (HEC), Pakistan
-- Google AI Professional Certificate, Google (Coursera)
-- Google AI Essentials Specialization, Google (Coursera)
-- AI Engineering & Automation, The Techzeen
+- 🏛️ **Generative AI Certification**, Higher Education Commission (HEC), Pakistan
+- 🔍 **Google AI Professional Certificate**, Google (Coursera)
+- 🌱 **Google AI Essentials Specialization**, Google (Coursera)
+- 🛠️ **AI Engineering & Automation**, The Techzeen (ID: TTZ-PNQKGH)
+- 📊 **Data Analysis Track**: Advanced Excel, Python for Data Analysis, SQL
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<img src="assets/h-connect.svg" alt="let's talk" width="100%" />
 
 <div align="center">
 
-*Let's build something intelligent.* 
+Got an idea, a messy workflow or an internship opening? I'd love to hear about it.
 
-<img src="assets/footer.svg" alt="" width="100%" height="90" />
+<a href="https://hassan-portfolio-latest.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="52" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-hassan-shahzad-182439388"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="52" /></a>&nbsp;
+<a href="mailto:muhammadhassanshahzad22@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="52" /></a>
 
 </div>
+
+<br/>
+
+<img src="assets/footer.svg" alt="Let's build something intelligent." width="100%" />

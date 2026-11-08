@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236 60" width="236" height="60" role="img" aria-label="Portfolio">
+<defs>
+  <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="236" y2="60">
+    <stop offset="0" stop-color="#58A6FF"/><stop offset=".5" stop-color="#A371F7"/><stop offset="1" stop-color="#58A6FF"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" from="0 118.0 30.0" to="360 118.0 30.0" dur="4s" repeatCount="indefinite"/>
+  </linearGradient>
+</defs>
+<rect x="3" y="3" width="230" height="54" rx="27.0" fill="#58A6FF" opacity="0"><animate attributeName="opacity" values="0;.18;0" dur="2.6s" repeatCount="indefinite"/></rect>
+<rect x="3" y="3" width="230" height="54" rx="27.0" fill="#0d1428" stroke="url(#b)" stroke-width="2"/>
+<circle cx="34" cy="30" r="15" fill="#58A6FF" fill-opacity=".18"/>
+<g transform="translate(34,30)" fill="none" stroke="#58A6FF" stroke-width="1.8"><circle r="9"/><ellipse rx="4" ry="9"/><path d="M-9 0H9"/></g>
+<text x="62" y="36" font-family="'Segoe UI','Helvetica Neue',Ubuntu,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">Portfolio</text>
+</svg>
