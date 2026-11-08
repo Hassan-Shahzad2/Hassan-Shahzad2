@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80" role="img" aria-label="whoami">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80" role="img" aria-label="who am i">
 <defs>
-  <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" x2="130" spreadMethod="repeat">
+  <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" x2="170" spreadMethod="repeat">
     <stop offset="0" stop-color="#58A6FF"/><stop offset=".5" stop-color="#A371F7"/><stop offset="1" stop-color="#58A6FF"/>
-    <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="130 0" dur="5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="170 0" dur="5s" repeatCount="indefinite"/>
   </linearGradient>
   <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#58A6FF"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></linearGradient>
 </defs>
 <text x="8" y="50" font-family="'SFMono-Regular',Consolas,'Liberation Mono','Courier New',monospace" font-size="30" font-weight="700" fill="#58A6FF" opacity=".55">//</text>
-<text x="52" y="50" font-family="'Segoe UI','Helvetica Neue',Ubuntu,Arial,sans-serif" font-size="32" font-weight="800" fill="#58A6FF">whoami</text>
+<text x="52" y="50" font-family="'Segoe UI','Helvetica Neue',Ubuntu,Arial,sans-serif" font-size="32" font-weight="800" fill="#58A6FF">who am i</text>
 <rect x="8" y="64" width="1184" height="2" rx="1" fill="url(#l)" opacity=".5"/>
 <rect x="8" y="63" width="90" height="4" rx="2" fill="#A371F7">
   <animate attributeName="x" values="8;1100;8" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".6 0 .4 1;.6 0 .4 1"/>

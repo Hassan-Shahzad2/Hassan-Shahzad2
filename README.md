@@ -12,27 +12,27 @@
 
 <br/><br/>
 
-<img src="assets/stats.svg" alt="CGPA 3.75, 8 projects, 5 certificates, graduating 2027" width="100%" />
+<img src="assets/stats.svg" alt="8 projects, 3 deployed apps, 5 certificates, Python as core language" width="100%" />
 
 </div>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-<img src="assets/h-about.svg" alt="whoami" width="100%" />
+<img src="assets/h-about.svg" alt="who am i" width="100%" />
 
 <div align="center">
-<img src="assets/terminal.svg" alt="Code editor with a short RAG query function" width="85%" />
+<img src="assets/terminal.svg" alt="Tablet showing a code editor with a short RAG query function" width="85%" />
 </div>
 
 <br/>
 
-I design and ship AI-powered applications from idea to deployment: LLM workflows, retrieval-augmented generation (RAG), AI agents and the backend that holds them together. CS undergrad at **Iqra University** (CGPA 3.75), based in Karachi, Pakistan.
+I design and ship AI-powered applications from idea to deployment: LLM workflows, retrieval-augmented generation (RAG), AI agents and the backend that holds them together. Based in Karachi, Pakistan.
 
 - 🤖 Building with **AI agents, RAG and LLMs**
 - ⚙️ Automating real workflows with **n8n, Flask and REST APIs**
 - 🗄️ Working with **vector databases and semantic search**
-- 🎓 Finished the **AI Engineering & Automation internship at The Techzeen**, where I built Probe
-- 📫 Open to software engineering, AI and backend roles, internships and entry-level
+- 🎙️ Trained in **AI Engineering & Automation at The Techzeen**, where I built Probe, an AI voice interviewer
+- 📫 Open to software engineering, AI and backend roles
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
@@ -93,7 +93,7 @@ I design and ship AI-powered applications from idea to deployment: LLM workflows
 
 <div align="center">
 
-Got an idea, a messy workflow or an internship opening? I'd love to hear about it.
+Got an idea, a messy workflow or a role that needs an AI engineer? Let's talk.
 
 <a href="https://hassan-portfolio-latest.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="52" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/muhammad-hassan-shahzad-182439388"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="52" /></a>&nbsp;

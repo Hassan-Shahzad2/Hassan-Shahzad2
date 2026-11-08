@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 232" width="580" height="232" role="img" aria-label="AI HR Resume Screening: Pulls skills from PDF resumes, scores candidates ATS-style, then emails the decision automatically. Admin dashboard tracks applicants live.">
 <defs>
   <linearGradient id="bd-card-hr" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="580" y2="232">
-    <stop offset="0" stop-color="#A371F7"/><stop offset=".45" stop-color="#A371F7" stop-opacity=".12"/><stop offset=".55" stop-color="#A371F7" stop-opacity=".12"/><stop offset="1" stop-color="#F778BA"/>
+    <stop offset="0" stop-color="#A371F7"/><stop offset=".45" stop-color="#A371F7" stop-opacity=".12"/><stop offset=".55" stop-color="#A371F7" stop-opacity=".12"/><stop offset="1" stop-color="#7DD3FC"/>
     <animateTransform attributeName="gradientTransform" type="rotate" from="0 290.0 116.0" to="360 290.0 116.0" dur="7s" repeatCount="indefinite"/>
   </linearGradient>
   <linearGradient id="sh-card-hr" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Let's build something intelligent.">
 <defs>
   <linearGradient id="t" gradientUnits="userSpaceOnUse" x1="300" x2="900" spreadMethod="repeat">
-    <stop offset="0" stop-color="#58A6FF"/><stop offset=".33" stop-color="#A371F7"/><stop offset=".66" stop-color="#F778BA"/><stop offset="1" stop-color="#58A6FF"/>
+    <stop offset="0" stop-color="#58A6FF"/><stop offset=".33" stop-color="#A371F7"/><stop offset=".66" stop-color="#7DD3FC"/><stop offset="1" stop-color="#58A6FF"/>
     <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="600 0" dur="6s" repeatCount="indefinite"/>
   </linearGradient>
   <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff"/></linearGradient>
@@ -12,7 +12,7 @@
 <g mask="url(#m)">
   <path d="M0 150 Q150 112 300 150 T600 150 T900 150 T1200 150 T1500 150 T1800 150 T2100 150 T2400 150 L2400 220 L0 220 Z" fill="#58A6FF" fill-opacity="0.35"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="14s" repeatCount="indefinite"/></path>
   <path d="M0 165 Q150 135 300 165 T600 165 T900 165 T1200 165 T1500 165 T1800 165 T2100 165 T2400 165 L2400 220 L0 220 Z" fill="#A371F7" fill-opacity="0.45"><animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="10s" repeatCount="indefinite"/></path>
-  <path d="M0 182 Q150 158 300 182 T600 182 T900 182 T1200 182 T1500 182 T1800 182 T2100 182 T2400 182 L2400 220 L0 220 Z" fill="#F778BA" fill-opacity="0.54"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/></path>
+  <path d="M0 182 Q150 158 300 182 T600 182 T900 182 T1200 182 T1500 182 T1800 182 T2100 182 T2400 182 L2400 220 L0 220 Z" fill="#7DD3FC" fill-opacity="0.54"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/></path>
 </g>
 <text x="600.0" y="88" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Ubuntu,Arial,sans-serif" font-size="38" font-weight="800" fill="#e6edf3">Let's build something intelligent.</text>
 <text x="600.0" y="122" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono','Courier New',monospace" font-size="14" fill="#6b7a9c">&lt;/&gt; made with curiosity, caffeine and a lot of n8n workflows</text>
